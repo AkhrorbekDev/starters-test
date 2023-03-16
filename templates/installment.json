@@ -1,5 +1,5 @@
 {
   "name": "olcha-installment",
   "defaultDir": "modules/installment",
-  "tar": "http://134.119.188.210/root/olcha-installment/-/archive/main/olcha-installment-main.tar.gz"
+  "tar": "https://codeload.github.com/olchauz/installment/tar.gz/refs/heads/main"
 }

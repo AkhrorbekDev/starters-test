@@ -1,5 +1,5 @@
 {
   "name": "olcha-cart",
-  "defaultDir": "modules/cart",
-  "tar": "http://134.119.188.210/root/olcha-cart/-/archive/main/olcha-cart-main.tar.gz"
+  "defaultDir": "cart",
+  "tar": "https://codeload.github.com/olchauz/cart/tar.gz/refs/heads/main"
 }

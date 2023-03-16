@@ -1,5 +1,5 @@
 {
   "name": "olcha-cart-store",
-  "defaultDir": "modules/cart-store",
-  "tar": "https://gitlab.com/o1294/marketplace-panel/-/archive/main/marketplace-panel-main.tar.gz"
+  "defaultDir": "cart-store",
+  "tar": "https://codeload.github.com/olchauz/cart-store/tar.gz/refs/heads/main"
 }
